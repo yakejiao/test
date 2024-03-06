@@ -6,3 +6,7 @@
 # 手机电脑同屏工具，开源无需root
 https://github.com/barry-ran/QtScrcpy
 
+# AI工具
+
+* AI工具集：https://ai-bot.cn/
+* AIGC导航：https://www.aigc.cn/#term-6079
