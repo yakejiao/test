@@ -13,3 +13,6 @@ https://github.com/barry-ran/QtScrcpy
 
 ## 求职AI神器
 * https://www.explainthis.io/zh-hans/tools
+
+## 本地电脑运行（16G内存即可，支持windows、macos）
+* https://github.com/ollama/ollama
