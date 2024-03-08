@@ -16,3 +16,6 @@ https://github.com/barry-ran/QtScrcpy
 
 ## 本地电脑运行（16G内存即可，支持windows、macos）
 * https://github.com/ollama/ollama
+
+## gpt4free免费使用各种gpt
+* https://github.com/xtekky/gpt4free
