@@ -19,3 +19,7 @@ https://github.com/barry-ran/QtScrcpy
 
 ## gpt4free免费使用各种gpt
 * https://github.com/xtekky/gpt4free
+
+
+## 短视频生成 
+* https://github.com/harry0703/MoneyPrinterTurbo  利用AI大模型，一键生成高清短视频
