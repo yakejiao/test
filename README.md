@@ -22,6 +22,8 @@ https://github.com/barry-ran/QtScrcpy
 * https://github.com/chatanywhere/GPT_API_free   免费的api key及付费api key采购地址  
 * https://github.com/terobox/ChatGPT-API-Faucet   免费1美金api key 领取
 * https://github.com/xtekky/gpt4free  可以本地docker部署的chatgpt
+* https://github.com/nomic-ai/gpt4all  本地部署的gpt4模型，支持windows、macos、linux
+* 
 
 
 ## 短视频生成 
