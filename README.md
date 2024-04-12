@@ -19,6 +19,8 @@ https://github.com/barry-ran/QtScrcpy
 
 ## gpt4free免费使用各种gpt
 * https://github.com/xtekky/gpt4free
+* https://github.com/chatanywhere/GPT_API_free   免费的api key及付费api key采购地址  
+* https://github.com/terobox/ChatGPT-API-Faucet   免费1美金api key 领取
 
 
 ## 短视频生成 
