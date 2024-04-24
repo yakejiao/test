@@ -6,6 +6,9 @@
 # 手机电脑同屏工具，开源无需root
 https://github.com/barry-ran/QtScrcpy
 
+# 直接将Apk文件转换为可以进行二次开发的Android项目的工具,支持so hook,对于il2cpp的游戏apk直接生成il2cpp c++脚手架，将痛苦的逆向环境，转化为舒服的开发环境，告别汇编，告别二进制，还有啥好说的~~
+https://github.com/nisemoe/FakerAndroid 
+
 # AI工具
 
 * AI工具集：https://ai-bot.cn/
