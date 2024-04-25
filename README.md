@@ -31,6 +31,7 @@ https://github.com/nisemoe/FakerAndroid
 
 ## 短视频生成 
 * https://github.com/harry0703/MoneyPrinterTurbo  利用AI大模型，一键生成高清短视频
+* https://github.com/hpcaitech/Open-Sora  open sora
 
 ## 主流llm部署学习
 * https://github.com/datawhalechina/self-llm
