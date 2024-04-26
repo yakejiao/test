@@ -35,3 +35,13 @@ https://github.com/nisemoe/FakerAndroid
 
 ## 主流llm部署学习
 * https://github.com/datawhalechina/self-llm
+
+
+# 电商商城
+|代码地址|介绍|其他|
+|---|---|---|
+|https://gitee.com/ZhongBangKeJi/crmeb_java| CRMEB 开源商城系统Java版，基于Java+Vue+Uni-app开发，在微信公众号、小程序、H5移动端都能使用，代码全开源无加密，独立部署，二开很方便，还支持免费商用，能满足企业新零售、分销推广、拼团、砍价、秒杀等多种经营需求，自用、做二开项目都很合适。系统代码全开源无加密，独立部署、二开方便，适用于企业新零售、分销、拼团、砍价，秒杀等各种业务需求。||
+||||
+
+
+ 
