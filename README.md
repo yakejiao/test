@@ -49,4 +49,14 @@
 # js代码压缩混淆
 https://github.com/mishoo/UglifyJS
 
+# chrome 插件开发
+https://docs.plasmo.com/framework 开发框架
+
+# 工具站点
+https://kgtools.cn/
+
+# android 性能优化
+https://juejin.cn/post/7016883220025180191#/  webview优化不错的文章
+
+
  
