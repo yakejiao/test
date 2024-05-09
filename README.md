@@ -57,6 +57,7 @@ https://kgtools.cn/
 
 # android 性能优化
 https://juejin.cn/post/7016883220025180191#/  webview优化不错的文章
+https://github.com/yale8848/CacheWebView  webview优化开源框架
 
 
  
