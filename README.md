@@ -291,7 +291,9 @@ A beautiful Asian lady, looking at the camera, captured through a 50mm camera le
 ➜https://vidiq.com/windy
 
 
-chatTTS:
+# chatTTS:
+
+https://github.com/panyanyany/Awesome-ChatTTS
 
 音色卡片
 http://ttslist.aiqbh.com/
