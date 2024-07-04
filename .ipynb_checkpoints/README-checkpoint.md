@@ -289,12 +289,3 @@ A beautiful Asian lady, looking at the camera, captured through a 50mm camera le
 
 ► vidiq Youtube频道优化工具
 ➜https://vidiq.com/windy
-
-
-chatTTS:
-
-音色卡片
-http://ttslist.aiqbh.com/
-
-音色克隆
-http://region-9.autodl.pro:41137/
